@@ -15,7 +15,7 @@ A full-stack MERN-based food ordering web app with:
 
 - MongoDB
 - Express.js
-- React.js (to be integrated)
+- React.js 
 - Node.js
 - Bootstrap + Custom HTML/CSS
 
