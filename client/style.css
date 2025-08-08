@@ -1,0 +1,240 @@
+*{
+    padding:0;
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.fa-solid {
+    font-size:x-large;
+}
+
+.custom-navbar {
+  padding: 12px 0;
+}
+
+.btn-brand {
+  background-color: #ee6644;
+  color: white;
+  padding: 6px 16px;
+  border-radius: 8px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: background 0.3s ease;
+}
+
+.btn-brand:hover {
+  background-color: #d44c2a;
+}
+
+img{
+    width:100%;
+}
+section{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#Menu{
+    padding-left: 200px;
+    padding-right: 200px;
+    background-color: #fef9f4;
+}
+.img1{
+    height: 650px;
+    width: 500px;
+}
+.button{
+    font-family: Arial;
+    padding: 14px 38px;
+    text-decoration: none;
+}
+.button-brand{
+    color:white;
+    font-weight: 500;
+    border-color:#ff8800;
+    background-color:#F58d17;
+    text-decoration: none;
+}
+.button-brand:hover{
+    border-color:#572e01;
+    background-color: #743f04;
+    color:white;
+    text-decoration: none;
+}
+.slide-1{
+    background: linear-gradient(#00000041,#00000042),url(https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTl8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60);
+}
+.slide-2{
+    background: linear-gradient(#00000041,#00000042),url(https://wallpaperaccess.com/full/424544.jpg);
+}
+.slide-3{
+    background: linear-gradient(#00000041,#00000042),url(https://wallpaperaccess.com/full/1972917.jpg);
+}
+.bg-cover{
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#about .divider{
+    width: 60px;
+    height: 2px;
+    display: block;
+    background-color: #F58d17;
+}
+.intro-text{
+    margin: bottom 40px;
+    text-align:center;
+    padding-bottom: 50px;
+    font-weight: bold;
+}
+.intro-text p{
+    max-width:500px;
+    margin:16px auto 0 auto;
+}
+.services {
+  background: #fef9f4;
+  padding: 60px 0;
+}
+
+.services h1 {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 40px;
+  color: #333;
+}
+
+.service {
+  background: white;
+  border-radius: 12px;
+  padding: 30px 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.service:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.service .service-icon {
+  width: 70px;
+  height: 70px;
+  background-color: #ff6f3c;
+  color: #fff;
+  font-size: 30px;
+  border-radius: 50%;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 20px auto;
+}
+
+.service h4 {
+  font-weight: 600;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.service p {
+  font-size: 15px;
+  color: #666;
+}
+
+.features{
+    padding-top: 80px;
+    padding-left: 50px;
+}
+
+.search-container {
+    display: flex;
+    justify-content: center;
+    margin: 15px 0;
+}
+#search-bar {
+    width: 50%;
+    padding: 5px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+}
+
+
+#search-btn {
+    background-color: orange;
+    border: 1px solid orange;
+    color: white;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 0 5px 5px 0;
+}
+
+#search-btn:hover {
+    background-color: orange;
+}
+
+.fa-search {
+    font-size: 16px;
+}
+
+.dish-img {
+  width: 100px;
+  height: 250px;
+  object-fit: cover;
+  display: block;
+}
+
+.dish-card {
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+}
+
+.footer {
+  font-size: 14px;
+  background-color: #f8f9fa;
+}
+
+.footer h6 {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.footer ul li {
+  margin-bottom: 5px;
+  color: #555;
+}
+
+.footer a {
+  color: #444;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  color: #ee6644;
+}
+
+.footer .app-download img {
+  height: 55px;
+  margin: 0 10px;
+}
+
+.social-links a {
+    font-size: 24px;
+}
+
+.navbar-brand1 {
+  font-size: 26px;
+  font-weight: bold;
+  color: #ee6644;
+}
+
+.navbar-item{
+    margin-right: 20px;
+    text-align: center;
+}
+
+.navbar-item a {
+  color: #ee6644;
+  font-weight: 500;
+}
