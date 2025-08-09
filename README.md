@@ -1,4 +1,4 @@
-# kithchen-website
+# Kithchen Website
 
 # Kitchen Food Ordering App 🍽️
 
